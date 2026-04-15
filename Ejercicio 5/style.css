@@ -1,0 +1,85 @@
+.rojo {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.bloquerojo {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(253, 0, 0);
+    margin: 20px;
+}
+
+.verde {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.bloqueverde {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(115, 255, 0);
+    margin: 20px;
+}
+
+.azul {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.bloqueazul {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 0, 255);
+    margin: 20px;
+}
+
+.bloquenuevo {
+    width: 50px;
+    height: 25px;
+    background-color: rgb(4, 0, 255);
+    margin: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.fondo {
+    background-color: rgba(221, 219, 219, 0.541);
+    width: 50%;
+    height: 30vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.bloquepopular {
+    width: 50px;
+    height: 30px;
+    background-color: rgb(0, 17, 255);
+    margin: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.fondo2 {
+    background-color: rgba(221, 219, 219, 0.541);
+    width: 50%;
+    height: 30vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.fondo3 {
+    background-color: rgba(221, 219, 219, 0.541);
+    width: 50%;
+    height: 30vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
