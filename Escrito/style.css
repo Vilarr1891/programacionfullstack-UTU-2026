@@ -1,0 +1,39 @@
+.encabezado {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 10px;
+}
+#request-invite {
+    color: #ffffff;
+    border-radius: 50px;
+    align-items: center;
+    width: 110px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: #13c98c;
+    border-color: transparent;
+}
+.opciones {
+    color: #a59e9e;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 10px;
+}
+#request-invite2 {
+    color: #ffffff;
+    border-radius: 50px;
+    align-items: center;
+    width: 110px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: #13c98c;
+    border-color: transparent;
+}
